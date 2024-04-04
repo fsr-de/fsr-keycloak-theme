@@ -1,0 +1,12 @@
+body {
+    background-image: url('../img/background.png') !important;
+    background-size: cover !important;
+}
+
+#kc-form {
+    display: none;
+}
+
+#kc-social-providers > hr:first-child, #kc-social-providers > h2:nth-child(2) {
+    display: none;
+}
