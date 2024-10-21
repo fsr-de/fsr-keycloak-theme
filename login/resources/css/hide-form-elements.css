@@ -3,10 +3,6 @@ body {
     background-size: cover !important;
 }
 
-#kc-form {
-    display: none;
-}
-
-#kc-social-providers > hr:first-child, #kc-social-providers > h2:nth-child(2) {
+.pf-v5-c-login__main-body, .pf-v5-c-login__main-footer-band {
     display: none;
 }
