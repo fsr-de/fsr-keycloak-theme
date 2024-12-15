@@ -3,6 +3,6 @@ body {
     background-size: cover !important;
 }
 
-.pf-v5-c-login__main-body, .pf-v5-c-login__main-footer-band {
+#kc-form-login, .pf-v5-c-login__main-footer-band {
     display: none;
 }
